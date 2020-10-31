@@ -1,0 +1,191 @@
+h2{
+	color: red;
+	color: green;
+	color: blue;
+	font-size: 30px
+}
+h3{
+	font-size: 30px
+	color: green;
+}
+p{
+	color: rgba(000,000,00,0.8);
+	font-size: 2em;
+}
+.head1{
+	color: red
+}
+.bg_blue{
+	background-color: blue;
+}
+#head{
+	font-size: 30px;
+}
+h4{
+	font-size: 20pt;
+	color: rgb(00,000,000);
+	background-color: red;
+}
+h5{
+	font-size: 80%;
+	color: #ff00f0;
+	background-color: blue ;
+}
+
+
+.header{
+	min-height: 30px;
+	background-color: red;
+}
+
+.box{
+overflow: hidden;
+border: 10px solid yellow;
+}
+.blog{
+	min-height: 100px;
+	background-color: blue;
+	width: 55%;
+	float: left;
+
+}
+.contact{
+    min-height: 100px;
+	background-color: green;
+	width: 35%;
+	float :right;
+
+}
+.footer{
+
+	min-height: 50px;
+	background-color: black;
+	display: block;
+}
+
+
+.header1{
+	min-height: 30px;
+	background-color: red;
+}
+.box1{
+overflow: hidden;
+border: 10px solid yellow;
+}
+.blog1{
+	min-height: 100px;
+	background-color: blue;
+	width: 31.8%;
+	float: left;
+	border: 10px solid yellow;
+}
+.footer1{
+	overflow: hidden;
+	min-height: 50px;
+	background-color: gray;
+	font-size: 50px;
+}
+
+
+.box2{
+    overflow: hidden;
+   border: 5px solid green; 
+}
+
+
+.blog3{
+	min-height: 100px;
+	background-color: gray;
+	width: 24%;
+	float: left;
+	font-size: 50px;
+ }
+.blog4{
+	min-height: 100px;
+	background-color: blue;
+	width: 25%;
+	float: left;
+	font-size: 50px;
+  
+}
+.blog5{
+	min-height: 100px;
+	background-color: red;
+	width: 25%;
+	float: left;
+	font-size: 50px;
+  
+}
+.blog6{
+	min-height: 100px;
+	background-color: blue;
+	width: 25%;
+	float: left;
+	font-size: 50px;
+  
+}
+.blog7{
+	min-height: 100px;
+	background-color: yellow;
+	width: 25%;
+	float: left;
+	font-size: 50px;
+}
+.footer2{
+	min-height: 100px;
+	background-color: skyblue;
+	font-size: 50px;
+	clear: both;
+}
+
+.box3{
+	overflow: hidden;
+	border: 5px solid gray;
+}
+
+.blog8{
+	min-height: 100px;
+	background-color: red;
+	width: 19%;
+	float: left;
+	border: 5px solid gray;
+	font-size: 50px;
+}
+.blog9{
+	min-height: 100px;
+	background-color: green;
+	width: 19%;
+	float: left;
+	border: 5px solid gray;
+	font-size: 50px;
+}
+.blog10{
+	min-height: 100px;
+	background-color: skyblue;
+	width: 19%;
+	float: left;
+	border: 5px solid gray;
+	font-size: 50px;
+}
+.blog11{
+	min-height: 100px;
+	background-color: blue;
+	width: 19%;
+	float: left;
+	border: 5px solid gray;
+	font-size: 50px;
+}
+.blog12{
+	min-height: 100px;
+	background-color: black;
+	width: 19%;
+	float: left;
+	border: 5px solid gray;
+	font-size: 50px;
+}
+.footer3{
+	min-height: 100px;
+	background-color: blue;
+	font-size: 50px;
+	clear: both;
+}
